@@ -1,0 +1,36 @@
+Weather Data Analysis Project Submission
+
+Student Name : Jayesh Rajendra Ingale
+Project Title : Weather Data Analysis
+Submission Date : 24-07-2026
+
+
+Project Files Included:
+1. README.md
+2. requirements.txt
+3. submission.txt
+4. Weather Data Analysis.ipynb
+5. Weather Data Analysis.csv
+6. Weather Data Analysis.pbix
+7. Dashboard Screenshot.png
+8. Weather Data Analysis Report.docx
+9. All generated plots
+
+Project Summary:
+- Cleaned and preprocessed the weather dataset.
+- Handled missing values and duplicate records.
+- Removed outliers using the IQR method.
+- Performed Exploratory Data Analysis (EDA).
+- Created visualizations using Python.
+- Built an interactive Power BI dashboard.
+- Analyzed monthly and seasonal weather trends.
+- Generated a project report with dashboard explanation.
+
+Repository Name:
+Weather_Data_Analysis
+
+Branch:
+submission
+
+Version Tag:
+v1-final
