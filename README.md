@@ -80,7 +80,8 @@ The Power BI dashboard includes:
 
 
 ## Project Structure
-'''text
+
+```text
 Weather Data Analysis
 │
 ├── Dashboard
@@ -88,10 +89,10 @@ Weather Data Analysis
 │   └── Dashboard Screenshot.png
 │
 ├── Data
-│   └── Weather Data Analysis.csv
+│   ├── Weather Data Analysis.csv
 │
 ├── Notebook
-│   └── Weather Data Analysis.ipynb
+│   └── Weather Data Analysis.py
 │
 ├── Plots
 │   ├── wind_trend.png
@@ -102,13 +103,12 @@ Weather Data Analysis
 │   └── correlation_heatmap.png
 │
 ├── Reports
-│   └── Weather Data_Analysis Report.docx
+│   └── Weather Data Analysis Report.docx
 │
 ├── README.md
 ├── requirements.txt
 └── submission.txt
-'''
-
+```
 ## Author
 
 **Jayesh Rajendra Ingale**
